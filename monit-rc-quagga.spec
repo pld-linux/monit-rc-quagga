@@ -2,7 +2,7 @@ Summary:	monitrc file for monitoring Quagga routing services
 Summary(pl.UTF-8):	Plik monitrc do monitorowania usług routingu Quaggi
 Name:		monit-rc-quagga
 Version:	1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/System
 Source0:	quagga-bgpd.monitrc
